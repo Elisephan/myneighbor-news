@@ -28,12 +28,12 @@ Neighbourhood_app is a web application that allows you to be in the loop about e
 
 ## Application link
 
-https://github.com/Elisephan/hoodnews_app.git
+https://github.com/Elisephan/myneighbor-news_app.git
 
 ## Set up and Installation
 
 To access this application on your command line, you need to clone it.
-`git clone https://github.com/Elisephan/hoodnews_app.git`
+`git clone https://github.com/Elisephan/myneighbor-news_app.git`
 
 ### Prerequisites
 
@@ -60,7 +60,3 @@ For more information you can reach out to me via this email elise.ntakirutimana@
 ## License
 
 MIT LISENCE.
-
-
-
-
