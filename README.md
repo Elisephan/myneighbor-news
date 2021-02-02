@@ -6,7 +6,7 @@
 
 ## Description
 
-Neighbourhood_app is a web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts. This project  is an inspiration to make living neighborhoods safe,convenient to live in and to make it easier to trade skills adddda
+Neighbourhood_app is a web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts. This project  is an inspiration to make living neighborhoods safe,convenient to live in and to make it easier to trade skills addddaaaa
 
 ### User Stories
 
